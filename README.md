@@ -1,4 +1,4 @@
-# 🛠️ Parte práctica – Asistente inteligente de frecuencias SDR + IA
+# 🛠️ Asistente inteligente de frecuencias SDR + IA
 
 Esta guía te ayudará a ejecutar paso a paso el asistente inteligente para RTL-SDR que predice qué frecuencia escanear según hora, día y ciudad.
 
